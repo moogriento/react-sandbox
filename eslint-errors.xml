@@ -1,0 +1,14 @@
+
+[4mC:\sandbox\react-sandbox\app\test-component.js[24m
+   [2m3:1[22m   [31merror[39m    Prefer default export                          [2mimport/prefer-default-export[22m
+   [2m6:18[22m  [31merror[39m    A space is required after '{'                  [2mobject-curly-spacing[22m
+   [2m6:28[22m  [31merror[39m    A space is required before '}'                 [2mobject-curly-spacing[22m
+  [2m13:19[22m  [31merror[39m    A space is required after '{'                  [2mobject-curly-spacing[22m
+  [2m13:45[22m  [31merror[39m    A space is required before '}'                 [2mobject-curly-spacing[22m
+  [2m17:5[22m   [33mwarning[39m  Unexpected alert                               [2mno-alert[22m
+  [2m17:5[22m   [31merror[39m    'alert' is not defined                         [2mno-undef[22m
+  [2m17:11[22m  [31merror[39m    Unexpected string concatenation                [2mprefer-template[22m
+  [2m35:2[22m   [31merror[39m    Newline required at end of file but not found  [2meol-last[22m
+
+[31m[1m✖ 9 problems (8 errors, 1 warning)
+[22m[39m
